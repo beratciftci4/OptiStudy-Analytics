@@ -1,6 +1,6 @@
 # ==============================================================================
 # Project: OptiStudy Analytics - YKS Performance Tracking System
-# Author: Berat
+# Author: Berat Ç.
 # Stack: R, Shiny, Shinydashboard, Tidyverse (ggplot2, dplyr)
 # Version: 1.1.0 (Production Layout Optimized)
 # ==============================================================================
