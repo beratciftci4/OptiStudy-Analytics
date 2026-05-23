@@ -27,6 +27,12 @@ Built-in predictive forecasting utilizes **Ordinary Least Squares (OLS) Linear R
 
 ------------
 
+## 🔮 Future Roadmap
+
+* **AYT Integration & Cross-Exam Corelation Matrix:** The current engine is optimized specifically for TYT macro-cycles. The next major release will integrate AYT (Advanced Proficiency Test) metrics. This will allow the engine to compute a cross-exam correlation matrix, analyzing how score variance in core TYT subjects (e.g., Core Math) predictive-models the student's AYT performance thresholds.
+
+------------
+
 ##  Deployment & Local Execution
 
 To run this platform locally, execute the following commands in your R environment:
